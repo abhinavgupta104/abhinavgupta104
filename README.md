@@ -187,7 +187,7 @@ Production-grade messaging and automation platform with real-world usage.
 
 <ul>
   <li>🔭 Frontend Developer at <b>OCIO Technology</b></li>
-  <li>🎓 Diploma in Information Technology (2nd Year)</li>
+  <li>🎓 Diploma in Information Technology (3rd Year)</li>
   <li>🧠 Focus: DSA, Frontend Architecture, Scalable UI Systems</li>
   <li>🎯 Philosophy: Build real products. Think long-term.</li>
   <li>⚡ Belief: <i>Control your destiny, or someone else will.</i></li>
